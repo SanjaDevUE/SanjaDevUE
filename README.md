@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi  👋
 [Twitter](https://twitter.com/sanja_dev)
 
 [Twitch](https://www.twitch.tv/sanjadev)
