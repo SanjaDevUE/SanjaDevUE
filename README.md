@@ -13,6 +13,4 @@ You can also find me on:
 
 [![SanjaDevUE's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SanjaDevUE)](https://github.com/anuraghazra/github-readme-stats)
 
-[![SanjaDevUE's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SanjaDevUE&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
 [![SanjaDevUE's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SanjaDevUE&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
