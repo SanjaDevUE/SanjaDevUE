@@ -2,8 +2,7 @@
 
 You can also find me on:
 
-- [Twitter](https://twitter.com/sanja_dev)
-- [Twitch](https://www.twitch.tv/sanjadev)
+- [Twitch](https://www.twitch.tv/devsanja)
 - [ArtStation](https://www.artstation.com/u7fbc1497)
 - [Steam Workshop](https://steamcommunity.com/id/k4f_Sanja/myworkshopfiles/)
 
