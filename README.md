@@ -3,7 +3,7 @@
 You can also find me on:
 
 - [Twitch](https://www.twitch.tv/devsanja)
-- [ArtStation]([https://www.artstation.com/u7fbc1497](https://www.artstation.com/sanjadev))
+- [ArtStation](https://www.artstation.com/sanjadev)
 - [Steam Workshop](https://steamcommunity.com/id/k4f_Sanja/myworkshopfiles/)
 
 ![SanjaDevUE's GitHub stats]([https://github-readme-stats.vercel.app](https://kayan-github-profile-projects-featu.vercel.app/)/api?username=SanjaDevUE&show_icons=true&theme=radical)
